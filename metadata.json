@@ -1,0 +1,8 @@
+{
+  "name": "SmartAttend-AI",
+  "description": "AI-powered facial recognition smart attendance system with live camera detection, liveness verification, student enrollment, real-time analytics, and automated attendance reports.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
